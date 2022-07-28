@@ -8,7 +8,7 @@ This repository test for GitHub Workflow.
 
 1. [Manual] Update Version: `npm vession {patch,minor,major}`
 2. [Manual] Push: `git push`
-3. [CI] Publish to npm and Push a tag to GitHub  
+3. [CI] Publish to npm and Push a tag to GitHub
 
 This Release flow is defined in [.github/workflows/publish.yml](./.github/workflows/publish.yml)
 
